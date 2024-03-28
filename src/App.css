@@ -1,0 +1,15 @@
+body {
+  background-image: url(https://cdn.culture.ru/images/7ae3c922-2340-539c-9d24-437be2a950a0);
+  background-size: cover;
+  background-attachment: fixed;  
+}
+
+h1 {
+  height: 42px;
+  font-family: 'Times New Roman', Times, serif;
+  color: rgb(222, 218, 212);
+}
+
+.container p {
+  font-size: 19px;
+}
